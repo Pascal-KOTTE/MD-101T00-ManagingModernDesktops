@@ -1,4 +1,5 @@
 # MD-101: Managing Modern Desktops
+**Warning** [the new Exam MD-102: Endpoint Administrator (beta available in May 2023) will replace Exam MD-100: Windows Client and Exam MD-101: Managing Modern Desktops (both retiring in July 2023)](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/evolving-microsoft-365-certifications-help-keep-you-in-sync-with/ba-p/3719265)
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
